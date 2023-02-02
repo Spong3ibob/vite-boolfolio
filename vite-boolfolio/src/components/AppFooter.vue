@@ -12,7 +12,7 @@
 </template>
 
 <style scoped>
-    h1{
+    h3{
          color: blueviolet;
     }
 </style>
